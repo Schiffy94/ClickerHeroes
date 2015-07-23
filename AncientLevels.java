@@ -1,10 +1,14 @@
 /**
  * @(#)AncientLevels.java
  *
- * Ideal Ancient levels (based on midgame Rules of Thumb) calculator
+ * Ideal Ancient levels (based on midgame Rules of Thumb) calculator - http://redd.it/339m3j
+ * Credit for formulae to /u/glitchypenguin and /u/wrigleys26
+ * Credit for rules compilation to /u/Awlcer
  *
+ * @TODO: Alter program to account for players in any stage of the game (user prompt?)
  * @author Marc Schiffres
  * @version 1.00 2015/7/18
+ * @version 1.01 2015/7/23 - added TODO, credits
  */
 import java.io.*;
 import java.util.Scanner;
